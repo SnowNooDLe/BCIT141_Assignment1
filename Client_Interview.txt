@@ -1,0 +1,81 @@
+Client Interview
+
+-- Brief:
+Ms Sam Stewart
+
+1. Tell us about your company ?
+-> New Zealand Music Live, interested in music and musician, prefer live performing.
+Instead of youtube, as its more like a recorded video.
+only for new zealand musician.
+its going to be free for website, sign up for news letter.
+color is on our choice,
+same to logo, logo is based on us.
+simple, stylish.
+font will be also based on us.
+
+2. Why do you want a new website ?
+
+3. Contact details
+-> 64 Manchester Street,
+03 366-1234
+sam.stewart@nzmusiclive.co.nz
+
+4. Target audiance.
+-> 25 and upwards. unisex who loves music or live music.
+
+5. sharing features, maybe connected to twitter, instagram.
+
+6. Budget, 
+
+7. compare to competitors,
+Its free to use, live only. Owner is willing to pay everything for customers. 
+
+8. No need to worry about copyright.
+
+9. recording video as voice is not a live thing.
+
+10. Will record video at some points.
+
+11. Anything that is simple, one of examples we got given, classic, simple, jazzy
+
+12. customer feedback preferred.
+
+13. Blog ?
+
+14. like to incourage people to go and watch live concert so not just saved video. in real world as well maybe.
+
+15. min ~ max : 9 pages to have for this page.
+
+16. dont like bright color, use the color that will be easy to use, read.
+
+17. open to use tag, e.g. band A tag will show every video, live about Band A.
+
+18.NZMusicLive.co.nz
+
+19. Main page will be about what this company is,
+then page of band, will link to another 3 pages about video recording that musician did (in terms of live).
+link to blog. ( can use real or display)
+pages that has a detail of business.( contact details.)
+
+20. Main home screen, to make it encourages people to go out for live.
+so maybe couple of photos with live concert ?
+
+9 pages for webpage
+1. Home
+2. About US
+3. Contact US
+- Using Form, as Sam wants to send out newsletter
+4. Musician Info
+-> video / interview with your musician / image
+5. Recordings Index
+-> list 3 recordings
+-> 3 images can be fine, align one line.
+6. Recording 1
+7. Recording 2
+8. Recording 3
+-> All recordings will have video / text / images
+9. BLOG
+-> just a screenshot of any blog.
+
+-- Specification:
+My musician is Ladi6.
